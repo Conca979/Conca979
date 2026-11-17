@@ -4,7 +4,7 @@ Minimal terminal-inspired GitHub profile repository (`Conca979/Conca979`).
 
 ## Repository Layout
 
-- `README.md`: Profile entry point using `<picture>` (`prefers-color-scheme: dark` / `light`) to swap dark and light variants of the terminal header, stats card, and contact badges.
+- `README.md`: Profile entry point using `<picture>` (`prefers-color-scheme: dark` / `light`) to swap dark and light variants of the terminal header and stats card.
 - `assets/terminal-header.svg`: Dark-mode animated SVG terminal card (pure SVG + CSS keyframes, no scripts or external fonts).
 - `assets/terminal-header-light.svg`: Light-mode animated SVG terminal card matching GitHub Light surfaces.
 - `.github/workflows/readme-stats.yml`: Daily scheduled and manually dispatchable workflow using `stats-organization/github-readme-stats-action@v2` to generate `profile/stats.svg` (dark) and `profile/stats-light.svg` (light).

@@ -132,7 +132,7 @@
 
   <g clip-path="url(#clipLine4)">
     <text x="28" y="160" class="mono cmd">
-      <tspan fill="#1f2328">from-scratch dl/nlp, ml research, &amp; c systems </tspan>
+      <tspan fill="#1f2328">from-scratch dl/nlp, c systems &amp; agent runtime harness </tspan>
       <tspan class="cursor" fill="#d97706">&#x2588;</tspan>
     </text>
   </g>
