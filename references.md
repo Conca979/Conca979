@@ -1,0 +1,1 @@
+https://github.com/stats-organization/github-stats-extended
